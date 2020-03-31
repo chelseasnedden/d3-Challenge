@@ -12,11 +12,9 @@ The data set included with the assignment is based on 2014 ACS 1-year estimates:
 
 ### Core Assignment: D3 Dabbler (Required Assignment)
 
-![4-scatter](Images/4-scatter.jpg)
+I have created a scatter plot between two of the data variables: `Healthcare vs. Poverty`.
 
-I will be creating a scatter plot between two of the data variables such as `Healthcare vs. Poverty` or `Smokers vs. Age`.
-
-Using the D3 techniques I learned in class, I will create a scatter plot that represents each state with circle elements. I'll code this graphic in the `app.js` file of this directory— pulling in the data from `data.csv` by using the `d3.csv` function. My scatter plot should ultimately appear like the image at the top of this section.
+Using the D3 techniques I learned in class, I will create a scatter plot that represents each state with circle elements. I'll code this graphic in the `app.js` file of this directory— pulling in the data from `data.csv` by using the `d3.csv` function.
 
 * Include state abbreviations in the circles.
 
